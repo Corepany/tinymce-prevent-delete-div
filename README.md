@@ -2,7 +2,7 @@
 Preventing deletion of divs which used for templates
 
 tinyMce is very powerful rich text editor. When we are using our templates to create a layout in the editor it would be very messy.
-Preventing deletion of the defined elements is protects layout.
+Preventing deletion of the defined elements is protecting layout.
 
 Example template
 
